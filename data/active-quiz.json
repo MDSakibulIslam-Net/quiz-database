@@ -1,0 +1,71 @@
+{
+  "quizId": "quiz_001",
+  "title": "General Knowledge Test - Part 1",
+  "description": "Test your general knowledge about Bangladesh",
+  "startDate": "2025-01-01",
+  "endDate": "2025-12-31",
+  "timeLimit": 300,
+  "status": "active",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the capital of Bangladesh?",
+      "options": ["Dhaka", "Chittagong", "Rajshahi", "Khulna"],
+      "correct": 0
+    },
+    {
+      "id": "q2",
+      "question": "What is the national flower of Bangladesh?",
+      "options": ["Rose", "Water Lily", "Jasmine", "Sunflower"],
+      "correct": 1
+    },
+    {
+      "id": "q3",
+      "question": "When is the Independence Day of Bangladesh?",
+      "options": ["21 February", "26 March", "16 December", "14 April"],
+      "correct": 1
+    },
+    {
+      "id": "q4",
+      "question": "What is the length of Padma Bridge?",
+      "options": ["5.6 km", "6.15 km", "7.2 km", "4.8 km"],
+      "correct": 1
+    },
+    {
+      "id": "q5",
+      "question": "Which is the longest river in Bangladesh?",
+      "options": ["Meghna", "Jamuna", "Padma", "Brahmaputra"],
+      "correct": 1
+    },
+    {
+      "id": "q6",
+      "question": "What is the length of Cox's Bazar sea beach?",
+      "options": ["100 km", "120 km", "150 km", "80 km"],
+      "correct": 1
+    },
+    {
+      "id": "q7",
+      "question": "What is the national animal of Bangladesh?",
+      "options": ["Elephant", "Royal Bengal Tiger", "Deer", "Bear"],
+      "correct": 1
+    },
+    {
+      "id": "q8",
+      "question": "What is the currency of Bangladesh?",
+      "options": ["Rupee", "Taka", "Dollar", "Riyal"],
+      "correct": 1
+    },
+    {
+      "id": "q9",
+      "question": "In which division is Sundarbans located?",
+      "options": ["Dhaka", "Barishal", "Khulna", "Rangpur"],
+      "correct": 2
+    },
+    {
+      "id": "q10",
+      "question": "How many divisions are in Bangladesh?",
+      "options": ["6", "7", "8", "9"],
+      "correct": 2
+    }
+  ]
+}
