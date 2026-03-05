@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "admin_001",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "name": "Admin",
+      "phone": "01700000000",
+      "district": "Dhaka",
+      "status": "active",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "user_001",
+      "username": "rahim",
+      "password": "123456",
+      "role": "user",
+      "name": "Rahim Uddin",
+      "phone": "01711111111",
+      "district": "Dhaka",
+      "status": "active",
+      "createdAt": "2025-01-15"
+    },
+    {
+      "id": "user_002",
+      "username": "karim",
+      "password": "123456",
+      "role": "user",
+      "name": "Karim Mia",
+      "phone": "01722222222",
+      "district": "Chittagong",
+      "status": "active",
+      "createdAt": "2025-01-20"
+    }
+  ]
+}
